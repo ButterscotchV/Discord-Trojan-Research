@@ -1,2 +1,33 @@
-# Auto detect text files and perform LF normalization
+# Macro for all binary files that should use Git LFS.
+[attr]lfs -text filter=lfs diff=lfs merge=lfs
+
+# Default to auto-normalized line endings.
 * text=auto
+
+# Code
+*.js text diff=javascript
+
+# Image
+*.jpg lfs
+*.jpeg lfs
+*.png lfs
+*.gif lfs
+*.bmp lfs
+*.tiff lfs
+*.xcf lfs
+*.webm lfs
+*.webp lfs
+
+# Executables
+*.exe lfs
+*.dll lfs
+*.so lfs
+*.pdb lfs
+*.mdb lfs
+
+# Packaging
+*.zip lfs
+*.7z lfs
+*.gz lfs
+*.rar lfs
+*.tar lfs

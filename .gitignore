@@ -1,0 +1,6 @@
+# Don't submit plain executables! This is just dangerous
+# Rename them to .exe.VIRUS and compress within a ZIP file
+*.exe
+
+# Ignore from Node
+package-lock.json
