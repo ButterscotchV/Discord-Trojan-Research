@@ -24,3 +24,7 @@ All indices are MD5 hashes of the executable
 ## 6DAF5B44F9AA4AFBE98455E0671B5B07
  - Date discovered: 2022-03-03
  - Name(s): `OwOGame.exe`
+
+## A49499CF25C3EE9A629ED38B221C0BAC
+ - Date discovered: 2022-03-03
+ - Name(s): `Plume-Launcher.exe`
