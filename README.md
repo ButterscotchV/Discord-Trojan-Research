@@ -43,4 +43,5 @@ All indices are MD5 hashes of the executable.
 ## 15A3F6554BD6828FAB3AAF4FE3CB4AF1
  - Date discovered: 2022-03-04
  - Sample **(DANGEROUS!!)**: [15A3F6554BD6828FAB3AAF4FE3CB4AF1.zip](./Live%20Samples/15A3F6554BD6828FAB3AAF4FE3CB4AF1.zip)
+ - Recovered sources: [15A3F6554BD6828FAB3AAF4FE3CB4AF1](./Recovered%20Sources/15A3F6554BD6828FAB3AAF4FE3CB4AF1)
  - Name(s): `SiltGameSetup.exe`
