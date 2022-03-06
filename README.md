@@ -1,5 +1,8 @@
 # Discord Trojan Research
- A repository of Discord trojans for research purposes. **Please DO NOT execute anything from this repository**, the executables and code within this repository is harmful and will potentially steal your information. Do research with care.
+A repository of Discord trojans for research purposes. **Please DO NOT execute anything from this repository**, the executables and code within this repository is harmful and will potentially steal your information. Do research with care.
+
+## Disclaimer
+Please do not use any of the code within this repository for anything other than research and analysis. This repository exists for the express purpose of virus analysis, promoting awareness of the effects of running these viruses, and reporting the viruses to the appropriate authorities.
 
 ## Submissions
 I am open to sample submissions, feel free to send any submissions by email or through the GitHub issues.
