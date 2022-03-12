@@ -53,3 +53,13 @@ All indices are MD5 hashes of the executable.
  - Date discovered: 2022-03-07
  - Sample **(DANGEROUS!!)**: [0724F774032FE8BFA0CF56EF2C463508.zip](./Live%20Samples/0724F774032FE8BFA0CF56EF2C463508.zip)
  - Name(s): `SpaceWarsSetup.exe`
+
+## 19B27E188230DA38C754A4DE24E513E7
+ - Date discovered: 2022-03-08
+ - Sample **(DANGEROUS!!)**: [19B27E188230DA38C754A4DE24E513E7.zip](./Live%20Samples/19B27E188230DA38C754A4DE24E513E7.zip)
+ - Name(s): `SkyBlade.zip`, `RunGame.exe`
+
+## B9A76643A6680F9456B5FE89A045D85F
+ - Date discovered: 2022-03-12
+ - Sample **(DANGEROUS!!)**: [B9A76643A6680F9456B5FE89A045D85F.zip](./Live%20Samples/B9A76643A6680F9456B5FE89A045D85F.zip)
+ - Name(s): `DeadTrigger.exe`
