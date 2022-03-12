@@ -56,10 +56,12 @@ All indices are MD5 hashes of the executable.
 
 ## 19B27E188230DA38C754A4DE24E513E7
  - Date discovered: 2022-03-08
+ - VirusTotal: <https://www.virustotal.com/gui/file/0ff4e8c7b4fd462b59e37d1eaeb5c21a9a5f1e2ac17bdf7c96e501e120abced6/>
  - Sample **(DANGEROUS!!)**: [19B27E188230DA38C754A4DE24E513E7.zip](./Live%20Samples/19B27E188230DA38C754A4DE24E513E7.zip)
  - Name(s): `SkyBlade.zip`, `RunGame.exe`
 
 ## B9A76643A6680F9456B5FE89A045D85F
  - Date discovered: 2022-03-12
+ - VirusTotal: <https://www.virustotal.com/gui/file/c68ae66fea0f7d1e01d3130c9a16514f072812d7b53b266a1734b80adc9516bf/>
  - Sample **(DANGEROUS!!)**: [B9A76643A6680F9456B5FE89A045D85F.zip](./Live%20Samples/B9A76643A6680F9456B5FE89A045D85F.zip)
  - Name(s): `DeadTrigger.exe`
