@@ -65,3 +65,9 @@ All indices are MD5 hashes of the executable.
  - VirusTotal: <https://www.virustotal.com/gui/file/c68ae66fea0f7d1e01d3130c9a16514f072812d7b53b266a1734b80adc9516bf/>
  - Sample **(DANGEROUS!!)**: [B9A76643A6680F9456B5FE89A045D85F.zip](./Live%20Samples/B9A76643A6680F9456B5FE89A045D85F.zip)
  - Name(s): `DeadTrigger.exe`
+
+## B1BAC6FFDED8996BA76B964372755BE7
+ - Date discovered: 2022-03-15
+ - VirusTotal: <https://www.virustotal.com/gui/file/01e99cd01cda7bfeaf7ddc98bea430c268222e931c29899bd895b15ae8035761/>
+ - Sample **(DANGEROUS!!)**: [B1BAC6FFDED8996BA76B964372755BE7.zip](./Live%20Samples/B1BAC6FFDED8996BA76B964372755BE7.zip)
+ - Name(s): `Neon_White_Launcher.exe`
